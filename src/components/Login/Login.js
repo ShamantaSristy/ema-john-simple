@@ -86,10 +86,6 @@ function Login() {
     event.preventDefault();
   }
 
-
-
-
-
   const clicked = () => {
     console.log('clicked');
   }
